@@ -1,0 +1,4 @@
+# Ignoriraj Visual Studio foldere i build artefakte
+.vs/
+bin/
+obj/
