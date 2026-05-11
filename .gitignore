@@ -1,0 +1,32 @@
+## .NET gitignore
+
+# Build results
+bin/
+obj/
+out/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.cache
+*.pidb
+*.userprefs
+
+# NuGet
+*.nupkg
+packages/
+.nuget/
+
+# Publish profiles
+PublishProfiles/
+
+# Test results
+TestResults/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
